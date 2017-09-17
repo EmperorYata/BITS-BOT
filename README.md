@@ -11,9 +11,9 @@ import random
 
 client = discord.Client()
 
-insults = ["Fuck you ", "You're tacky and I hate you ",
-           "You suck ", "No one likes ",
-           "Please cease to exist "]
+insults = ["You're tacky and I don't like you ",
+           "You are bad", "Go away",
+           "Please stop talking"]
 
 @client.event
 @asyncio.coroutine
